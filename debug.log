@@ -1,0 +1,134 @@
+DEBUG 2019-07-21 20:11:17,074 views 14568 17148 <rest_framework.request.Request object at 0x000001FA6CE566A0>
+DEBUG 2019-07-21 20:12:31,906 views 1340 17000 POST
+DEBUG 2019-07-21 20:23:32,912 views 17112 17392 POST,None
+DEBUG 2019-07-21 20:24:05,791 views 4452 10388 POST,multipart/form-data; boundary=--------------------------623493274376926740761461
+DEBUG 2019-07-21 20:47:24,337 views 15932 17664 POST, AnonymousUser, multipart/form-data; boundary=--------------------------168211763520299581611423
+DEBUG 2019-07-21 20:51:19,455 views 752 17056 POST, AnonymousUser, multipart/form-data; boundary=--------------------------421333712716924954889401
+DEBUG 2019-07-21 20:52:04,511 views 752 17056 POST, AnonymousUser, multipart/form-data; boundary=--------------------------020961715545636780917982
+DEBUG 2019-07-21 20:53:05,597 views 752 17056 POST, AnonymousUser, multipart/form-data; boundary=--------------------------021579083029394590026504
+DEBUG 2019-07-21 20:53:06,026 views 752 17056 POST, AnonymousUser, multipart/form-data; boundary=--------------------------210070796998309265182919
+DEBUG 2019-07-21 20:53:50,786 views 752 17056 POST, AnonymousUser, multipart/form-data; boundary=--------------------------254747429686488888842993
+DEBUG 2019-07-21 20:53:57,820 views 752 17056 POST, AnonymousUser, multipart/form-data; boundary=--------------------------417510180617206850984283
+DEBUG 2019-07-21 20:55:46,699 views 18840 13856 POST, AnonymousUser, multipart/form-data; boundary=--------------------------502999670274592072648721
+DEBUG 2019-07-21 20:56:07,232 views 18840 13856 POST, AnonymousUser, multipart/form-data; boundary=--------------------------039410980258691794498099
+DEBUG 2019-07-21 21:14:44,386 views 13832 18496 POST, AnonymousUser, multipart/form-data; boundary=--------------------------048332419015972708667044
+DEBUG 2019-07-21 21:14:55,269 views 13832 18496 POST, AnonymousUser, multipart/form-data; boundary=--------------------------278988998395668203556852
+DEBUG 2019-07-21 21:58:19,475 views 16168 17524 POST, AnonymousUser, multipart/form-data; boundary=--------------------------430116830107165556127106
+DEBUG 2019-07-21 21:58:50,313 views 21036 20592 POST, AnonymousUser, multipart/form-data; boundary=--------------------------442902721531686341182841
+DEBUG 2019-07-21 22:00:23,889 views 7784 20440 POST, AnonymousUser, multipart/form-data; boundary=--------------------------746191521873114626247519
+DEBUG 2019-07-21 23:43:44,391 views 3668 16596 POST, AnonymousUser, multipart/form-data; boundary=--------------------------363236272189396705257830
+DEBUG 2019-07-21 23:45:21,712 views 11824 12460 POST, AnonymousUser, multipart/form-data; boundary=--------------------------683520817943733455479571
+DEBUG 2019-07-21 23:47:14,273 views 16972 9012 POST, AnonymousUser, multipart/form-data; boundary=--------------------------679474207175154084817264
+DEBUG 2019-07-21 23:52:27,922 views 7412 9512 POST, AnonymousUser, multipart/form-data; boundary=--------------------------799370750735337710382935
+DEBUG 2019-07-21 23:53:16,554 views 10552 21108 POST, AnonymousUser, multipart/form-data; boundary=--------------------------744304588506362316943203
+DEBUG 2019-07-21 23:54:20,776 views 3652 11424 POST, AnonymousUser, multipart/form-data; boundary=--------------------------209835732905869004689856
+ERROR 2019-07-21 23:54:20,945 tasks 3652 11424 ERROR
+DEBUG 2019-07-22 00:26:21,691 views 11208 21004 POST, AnonymousUser, multipart/form-data; boundary=--------------------------221689071510688779676866
+ERROR 2019-07-22 00:26:21,795 tasks 11208 21004 ERROR
+DEBUG 2019-07-22 00:28:51,216 views 11032 3008 POST, AnonymousUser, multipart/form-data; boundary=--------------------------609247093369580821826834
+ERROR 2019-07-22 00:28:51,295 tasks 11032 3008 ERROR
+DEBUG 2019-07-22 01:35:41,915 views 20228 16520 POST, AnonymousUser, multipart/form-data; boundary=--------------------------533005066968538746031799
+ERROR 2019-07-22 01:35:42,014 tasks 20228 16520 ERROR
+DEBUG 2019-07-22 01:38:00,432 views 20712 2888 POST, AnonymousUser, multipart/form-data; boundary=--------------------------023778093183676040877035
+ERROR 2019-07-22 01:38:00,548 tasks 20712 2888 ERROR
+DEBUG 2019-07-23 16:56:40,681 views 1232 5396 POST, AnonymousUser, multipart/form-data; boundary=--------------------------385854594934322925800945
+DEBUG 2019-07-23 16:59:26,289 views 6148 15000 POST, AnonymousUser, multipart/form-data; boundary=--------------------------221274823088910128779070
+ERROR 2019-07-23 16:59:26,757 tasks 6148 15000 ERROR
+DEBUG 2019-07-23 17:03:32,830 views 15144 15636 POST, AnonymousUser, multipart/form-data; boundary=--------------------------585708192845020949447247
+DEBUG 2019-07-23 17:05:37,028 views 14780 21436 POST, AnonymousUser, multipart/form-data; boundary=--------------------------183106193361400353306355
+DEBUG 2019-07-23 17:08:20,005 views 9924 16444 POST, AnonymousUser, multipart/form-data; boundary=--------------------------086216318248710368027895
+DEBUG 2019-07-23 17:16:08,754 views 19644 15036 POST, AnonymousUser, multipart/form-data; boundary=--------------------------472492868684332230347115
+ERROR 2019-07-23 17:16:08,924 tasks 19644 15036 ERROR
+DEBUG 2019-07-23 18:10:07,369 views 5972 3352 POST, AnonymousUser, multipart/form-data; boundary=--------------------------156314975619107700492207
+ERROR 2019-07-23 18:10:07,482 tasks 5972 3352 ERROR
+DEBUG 2019-07-23 18:11:39,734 views 20424 17576 POST, AnonymousUser, multipart/form-data; boundary=--------------------------407908994793638135287792
+ERROR 2019-07-23 18:11:39,853 tasks 20424 17576 ERROR
+DEBUG 2019-07-23 18:20:46,631 views 3632 15676 POST, AnonymousUser, multipart/form-data; boundary=--------------------------747732208578353844281383
+DEBUG 2019-07-23 18:31:04,278 views 19900 14340 POST, AnonymousUser, multipart/form-data; boundary=--------------------------995570748849153786791488
+ERROR 2019-07-23 18:31:04,398 tasks 19900 14340 ERROR
+DEBUG 2019-07-23 18:33:00,878 views 19908 22244 POST, AnonymousUser, multipart/form-data; boundary=--------------------------932249532492300671525491
+ERROR 2019-07-23 18:33:00,956 tasks 19908 22244 ERROR
+DEBUG 2019-07-23 18:43:46,454 views 19588 7532 POST, AnonymousUser, multipart/form-data; boundary=--------------------------576668527971946827556945
+DEBUG 2019-07-23 18:45:12,319 views 8452 19176 POST, AnonymousUser, multipart/form-data; boundary=--------------------------494425327557019491683696
+DEBUG 2019-07-23 18:45:31,289 views 17328 21636 POST, AnonymousUser, multipart/form-data; boundary=--------------------------819143205970290805595455
+DEBUG 2019-07-23 18:47:04,638 views 8188 1428 POST, AnonymousUser, multipart/form-data; boundary=--------------------------462974804153938743785480
+ERROR 2019-07-23 18:47:04,740 tasks 8188 1428 ERROR
+DEBUG 2019-07-23 18:48:06,432 views 18816 21516 POST, AnonymousUser, multipart/form-data; boundary=--------------------------138593138420271706736144
+ERROR 2019-07-23 18:48:06,514 tasks 18816 21516 ERROR
+DEBUG 2019-07-23 18:49:08,654 views 12220 14084 POST, AnonymousUser, multipart/form-data; boundary=--------------------------507373275311466781766239
+ERROR 2019-07-23 18:49:08,733 tasks 12220 14084 ERROR
+DEBUG 2019-07-23 18:51:06,435 views 20536 3472 POST, AnonymousUser, multipart/form-data; boundary=--------------------------111586491655395813630506
+ERROR 2019-07-23 18:51:06,513 tasks 20536 3472 ERROR
+DEBUG 2019-07-23 19:00:27,853 views 20564 18856 POST, AnonymousUser, multipart/form-data; boundary=--------------------------054602225976161675278323
+ERROR 2019-07-23 19:00:27,966 tasks 20564 18856 ERROR
+DEBUG 2019-07-23 19:28:25,943 views 14120 3772 POST, AnonymousUser, multipart/form-data; boundary=--------------------------395656666909179762890474
+DEBUG 2019-07-23 19:30:14,573 views 1320 18856 POST, AnonymousUser, multipart/form-data; boundary=--------------------------436013453584397511731273
+ERROR 2019-07-23 19:30:14,653 tasks 1320 18856 ERROR
+DEBUG 2019-07-23 19:32:03,211 views 7764 1740 POST, AnonymousUser, multipart/form-data; boundary=--------------------------891454244083812712584421
+ERROR 2019-07-23 19:32:03,286 tasks 7764 1740 ERROR
+DEBUG 2019-07-23 19:41:17,479 views 10868 19908 POST, AnonymousUser, multipart/form-data; boundary=--------------------------230144758872188447977253
+ERROR 2019-07-23 19:41:17,550 tasks 10868 19908 ERROR
+DEBUG 2019-07-23 19:42:47,540 views 10372 22200 POST, AnonymousUser, multipart/form-data; boundary=--------------------------085475939208072550376202
+ERROR 2019-07-23 19:42:47,602 tasks 10372 22200 ERROR
+DEBUG 2019-07-23 19:45:30,423 views 15880 11720 POST, AnonymousUser, multipart/form-data; boundary=--------------------------695995057260494522997030
+ERROR 2019-07-23 19:45:30,542 tasks 15880 11720 ERROR
+DEBUG 2019-07-24 01:09:30,386 views 21192 9364 POST, AnonymousUser, multipart/form-data; boundary=--------------------------146865615786345509952608
+DEBUG 2019-07-24 01:15:06,004 views 15292 20996 POST, AnonymousUser, multipart/form-data; boundary=--------------------------279563275026916922713420
+DEBUG 2019-07-24 01:18:47,508 views 18644 15320 POST, AnonymousUser, multipart/form-data; boundary=--------------------------059309385015071703594396
+DEBUG 2019-07-24 01:25:23,277 views 21056 22388 POST, AnonymousUser, multipart/form-data; boundary=--------------------------427066680068198039763029
+DEBUG 2019-07-24 01:29:16,921 views 15612 17068 POST, AnonymousUser, multipart/form-data; boundary=--------------------------548274260894723358059182
+DEBUG 2019-07-24 01:30:19,871 views 616 20168 POST, AnonymousUser, multipart/form-data; boundary=--------------------------840274228988937928487031
+DEBUG 2019-07-24 01:35:12,710 views 3036 15300 POST, AnonymousUser, multipart/form-data; boundary=--------------------------805745147820458616369818
+DEBUG 2019-07-24 18:01:09,250 views 1440 12876 POST, AnonymousUser, multipart/form-data; boundary=--------------------------776776597734603344252758
+DEBUG 2019-07-24 18:01:36,984 views 2508 13500 POST, AnonymousUser, multipart/form-data; boundary=--------------------------704889669958999713116857
+DEBUG 2019-07-24 18:13:42,668 views 12300 10608 POST, AnonymousUser, multipart/form-data; boundary=--------------------------665646011633453247662350
+DEBUG 2019-07-24 18:14:31,248 views 1980 11068 POST, AnonymousUser, multipart/form-data; boundary=--------------------------777007096607669586453063
+DEBUG 2019-07-24 18:15:06,788 views 7580 12728 POST, AnonymousUser, multipart/form-data; boundary=--------------------------571426900778479742485108
+DEBUG 2019-07-24 18:15:52,986 views 5220 8644 POST, AnonymousUser, multipart/form-data; boundary=--------------------------005187223171306141813019
+DEBUG 2019-07-24 18:16:28,740 views 11292 11100 POST, AnonymousUser, multipart/form-data; boundary=--------------------------491809519244914596916254
+DEBUG 2019-07-24 18:18:55,951 views 7656 4060 POST, AnonymousUser, multipart/form-data; boundary=--------------------------296729673743069816563095
+DEBUG 2019-07-24 18:19:51,802 views 2196 8008 POST, AnonymousUser, multipart/form-data; boundary=--------------------------005188676005141605718613
+DEBUG 2019-07-24 18:38:37,991 views 12564 484 POST, AnonymousUser, multipart/form-data; boundary=--------------------------739164712129169733401840
+DEBUG 2019-07-24 18:40:06,881 views 12328 7028 POST, AnonymousUser, multipart/form-data; boundary=--------------------------504083364116840112517579
+DEBUG 2019-07-24 18:40:37,349 views 11016 1268 POST, AnonymousUser, multipart/form-data; boundary=--------------------------275058466308265285260758
+DEBUG 2019-07-24 18:45:37,584 views 3840 13380 POST, AnonymousUser, multipart/form-data; boundary=--------------------------384938689451192874143909
+DEBUG 2019-07-24 18:48:26,189 views 1428 2420 POST, AnonymousUser, multipart/form-data; boundary=--------------------------820010538520024303500264
+DEBUG 2019-07-24 18:49:18,986 views 5848 5784 POST, AnonymousUser, multipart/form-data; boundary=--------------------------123224229029481831215232
+DEBUG 2019-07-24 18:51:30,336 views 13560 3188 POST, AnonymousUser, multipart/form-data; boundary=--------------------------298833398852552605243615
+DEBUG 2019-07-24 18:52:28,584 views 7564 7932 POST, AnonymousUser, multipart/form-data; boundary=--------------------------845617912068756513331244
+DEBUG 2019-07-24 19:02:28,639 views 5320 6220 POST, AnonymousUser, multipart/form-data; boundary=--------------------------648080102542709192110894
+DEBUG 2019-07-24 19:03:01,568 views 5724 6188 POST, AnonymousUser, multipart/form-data; boundary=--------------------------181862158585049115476867
+DEBUG 2019-07-24 19:08:51,728 views 10720 248 POST, AnonymousUser, multipart/form-data; boundary=--------------------------477162163670117250508346
+DEBUG 2019-07-24 19:09:56,270 views 8000 7460 POST, AnonymousUser, multipart/form-data; boundary=--------------------------843974209268611565493183
+DEBUG 2019-07-24 19:17:54,074 views 8140 5196 POST, AnonymousUser, multipart/form-data; boundary=--------------------------394057978247446653123846
+DEBUG 2019-07-24 19:20:31,682 views 4184 6692 POST, AnonymousUser, multipart/form-data; boundary=--------------------------216488399764040861687481
+DEBUG 2019-07-24 19:31:15,405 views 14192 4248 POST, AnonymousUser, multipart/form-data; boundary=--------------------------037984096077252452490043
+DEBUG 2019-07-24 19:31:56,570 views 14244 11312 POST, AnonymousUser, multipart/form-data; boundary=--------------------------191612613572011403435904
+DEBUG 2019-07-24 19:37:22,531 views 3588 6504 POST, AnonymousUser, multipart/form-data; boundary=--------------------------055693750785377098827541
+DEBUG 2019-07-24 20:06:23,925 views 1596 8592 POST, AnonymousUser, multipart/form-data; boundary=--------------------------648066189169354658929104
+DEBUG 2019-07-24 20:08:01,170 views 13888 2236 POST, AnonymousUser, multipart/form-data; boundary=--------------------------673999368826320607428865
+DEBUG 2019-07-24 20:08:39,436 views 9360 2072 POST, AnonymousUser, multipart/form-data; boundary=--------------------------009403661413035873116839
+DEBUG 2019-07-24 20:09:14,326 views 8436 6076 POST, AnonymousUser, multipart/form-data; boundary=--------------------------864564498187840219952588
+DEBUG 2019-07-24 20:09:42,152 views 7124 10596 POST, AnonymousUser, multipart/form-data; boundary=--------------------------458478731716420646675270
+DEBUG 2019-07-24 20:10:44,747 views 6812 6516 POST, AnonymousUser, multipart/form-data; boundary=--------------------------275222098371190655506518
+DEBUG 2019-07-24 22:34:38,770 views 11360 3172 POST, AnonymousUser, multipart/form-data; boundary=--------------------------734877489768704135506883
+DEBUG 2019-07-25 00:16:36,818 views 6304 1052 POST, AnonymousUser, multipart/form-data; boundary=--------------------------327487412721813557705973
+DEBUG 2019-07-25 00:19:06,417 views 5604 8064 POST, AnonymousUser, multipart/form-data; boundary=--------------------------865001801832847601806348
+DEBUG 2019-07-25 00:19:17,494 views 5604 8064 POST, AnonymousUser, multipart/form-data; boundary=--------------------------718391558651748012672887
+DEBUG 2019-07-25 00:20:50,270 views 5604 8064 POST, AnonymousUser, multipart/form-data; boundary=--------------------------767874400578256548651632
+DEBUG 2019-07-25 00:25:42,349 views 456 6380 POST, AnonymousUser, multipart/form-data; boundary=--------------------------142380862325719529788088
+DEBUG 2019-07-25 00:34:56,576 views 7296 3172 POST, AnonymousUser, multipart/form-data; boundary=--------------------------198868199835643639122918
+DEBUG 2019-07-25 00:38:46,857 views 5884 7520 POST, AnonymousUser, multipart/form-data; boundary=--------------------------637869745444186859930639
+DEBUG 2019-07-25 00:42:27,204 views 3220 12804 POST, AnonymousUser, multipart/form-data; boundary=--------------------------187236130696329649939374
+DEBUG 2019-07-25 18:53:03,498 views 10028 15864 POST, AnonymousUser, multipart/form-data; boundary=--------------------------890609076163047530872915
+DEBUG 2019-07-25 18:56:48,209 views 2968 15604 POST, AnonymousUser, multipart/form-data; boundary=--------------------------628583641268732956551620
+DEBUG 2019-07-25 18:57:38,489 views 15832 2972 POST, AnonymousUser, multipart/form-data; boundary=--------------------------909197352262461451249782
+DEBUG 2019-07-25 19:37:01,265 views 8776 1448 POST, AnonymousUser, multipart/form-data; boundary=--------------------------518377174757167829426513
+DEBUG 2019-07-25 19:39:42,267 views 13060 7820 POST, AnonymousUser, multipart/form-data; boundary=--------------------------237787257088860871193548
+DEBUG 2019-07-25 19:47:28,941 views 10288 7708 POST, AnonymousUser, multipart/form-data; boundary=--------------------------366319304495284469087729
+DEBUG 2019-07-25 19:48:17,648 views 12356 14744 POST, AnonymousUser, multipart/form-data; boundary=--------------------------892949661032374021019589
+DEBUG 2019-07-25 19:50:09,198 views 13476 14476 POST, AnonymousUser, multipart/form-data; boundary=--------------------------614195403174075339894935
+DEBUG 2019-07-25 20:03:10,846 views 14540 3572 POST, AnonymousUser, multipart/form-data; boundary=--------------------------902863407781646674548800
+DEBUG 2019-07-25 20:04:11,734 views 12532 9068 POST, AnonymousUser, multipart/form-data; boundary=--------------------------841688683070670215592435
+DEBUG 2019-07-25 20:16:16,424 views 16256 7052 POST, AnonymousUser, multipart/form-data; boundary=--------------------------119817344649166137654804
+DEBUG 2019-07-25 20:55:36,968 views 14436 15640 POST, AnonymousUser, multipart/form-data; boundary=--------------------------513116387036853537903691
